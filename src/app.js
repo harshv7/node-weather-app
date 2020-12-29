@@ -5,7 +5,7 @@ const geocode = require('../utils/geocode');
 const weather = require('../utils/weather');
 const app = express();
 
-// Define path for express config
+// Define path for express config.
 const publicDirPath = path.join(__dirname, '../public');
 const viewspath = path.join(__dirname, '../templates/views');
 const partialPath = path.join(__dirname, '../templates/partials');
