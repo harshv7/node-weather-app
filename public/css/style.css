@@ -1,0 +1,26 @@
+h1{
+    color: gray;
+}
+body{
+    color: green;
+}
+header{
+    margin: 0 auto;
+}
+a{
+    margin: 5px;
+}
+.main-content{
+    flex-grow: 1;
+}
+input{
+ border:1px solid #cccccc;
+ padding:5px;
+}
+button{
+    cursor: pointer;
+    border: 1px solid #888888;
+    background: #888888;
+    color: white;
+    padding: 5px
+}
